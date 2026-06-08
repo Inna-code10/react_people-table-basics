@@ -9,4 +9,3 @@ export interface Person {
   mother?: Person;
   father?: Person;
 }
-
